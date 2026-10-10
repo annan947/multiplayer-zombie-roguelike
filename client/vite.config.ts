@@ -1,0 +1,2 @@
+import {defineConfig,loadEnv} from 'vite';import react from '@vitejs/plugin-react';import path from 'node:path';
+export default defineConfig(({mode})=>{const env=loadEnv(mode,process.cwd(),'');return {root:path.resolve('client'),publicDir:path.resolve('public'),plugins:[react()],define:{'process.env.NEXT_PUBLIC_COLYSEUS_URL':JSON.stringify(env.VITE_COLYSEUS_URL||'')},build:{outDir:path.resolve('client/dist'),emptyOutDir:true},server:{port:5173,proxy:{'/api':'http://localhost:3000'}}}});
