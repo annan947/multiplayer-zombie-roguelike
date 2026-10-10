@@ -1,0 +1,10 @@
+{
+  "total": 30,
+  "base": 9,
+  "perWave": 4,
+  "perPlayer": 4,
+  "breakSeconds": 25,
+  "bossEvery": 5,
+  "maxEnemies": 90,
+  "spawnInterval": 0.65
+}

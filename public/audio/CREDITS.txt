@@ -1,0 +1,28 @@
+DEADZONE audio credits — all sources below offered under CC0 1.0.
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+pistol.ogg / rifle.ogg / smg.ogg / shotgun.ogg
+The Free Firearm Sound Library — Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney.
+https://opengameart.org/content/the-free-firearm-sound-library
+Source files: 1911/A_42P.wav, AR-15/D_32P.wav, Carl Gustav M45/G_31P.wav, Mossberg/N_30P.wav.
+Edits: isolated discharge, mono downmix, level adjustment, short tail fade, Vorbis encoding.
+
+empty-city.ogg
+EmptyCity: Background Music — yd.
+https://opengameart.org/content/emptycity-background-music
+Original loop retained; playback mixed quietly.
+
+zombie-1.ogg / zombie-3.ogg / zombie-5.ogg / zombie-24.ogg
+Zombies Sound Pack — artisticdude.
+https://opengameart.org/content/zombies-sound-pack
+Edits: onset silence removal, limiting, mono Vorbis encoding.
+
+reload.ogg / ui.ogg
+Gun reload sounds — SpringySpringo.
+https://opengameart.org/content/gun-reload-sounds
+Original gunreload1.wav; UI click trimmed from this recording; mono Vorbis encoding.
+
+explosion.ogg
+Explosions — EZduzziteh.
+https://opengameart.org/content/explosions-4
+Original explosion1_0.ogg.

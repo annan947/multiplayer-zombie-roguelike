@@ -1,0 +1,8 @@
+{
+  "walker": { "hp": 80, "speed": 62, "damage": 12, "reward": 20 },
+  "runner": { "hp": 58, "speed": 135, "damage": 9, "reward": 25 },
+  "tank": { "hp": 420, "speed": 39, "damage": 28, "reward": 70 },
+  "spitter": { "hp": 115, "speed": 55, "damage": 8, "reward": 40 },
+  "exploder": { "hp": 100, "speed": 90, "damage": 40, "reward": 40 },
+  "boss": { "hp": 2400, "speed": 52, "damage": 32, "reward": 450 }
+}

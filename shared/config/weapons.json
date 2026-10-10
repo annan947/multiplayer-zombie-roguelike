@@ -1,0 +1,54 @@
+[
+  {
+    "name": "M1911",
+    "label": "PISTOL",
+    "clip": 12,
+    "rate": 0.29,
+    "damage": 38,
+    "reload": 1.1,
+    "spread": 0.025,
+    "pellets": 1,
+    "range": 680,
+    "cost": 0,
+    "recoil": 2
+  },
+  {
+    "name": "BREACHER",
+    "label": "SHOTGUN",
+    "clip": 7,
+    "rate": 0.7,
+    "damage": 25,
+    "reload": 1.8,
+    "spread": 0.1,
+    "pellets": 7,
+    "range": 410,
+    "cost": 220,
+    "recoil": 8
+  },
+  {
+    "name": "VIPER-9",
+    "label": "SMG",
+    "clip": 32,
+    "rate": 0.075,
+    "damage": 21,
+    "reload": 1.45,
+    "spread": 0.09,
+    "pellets": 1,
+    "range": 510,
+    "cost": 350,
+    "recoil": 3
+  },
+  {
+    "name": "RANGER",
+    "label": "RIFLE",
+    "clip": 24,
+    "rate": 0.16,
+    "damage": 57,
+    "reload": 1.6,
+    "spread": 0.018,
+    "pellets": 1,
+    "range": 870,
+    "cost": 550,
+    "recoil": 5
+  }
+]
