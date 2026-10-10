@@ -196,3 +196,11 @@ Development was assisted by OpenAI Codex. Third-party packages and bundled vendo
 ## V7 fixes
 
 Zombie navigation uses clearance-aware flow fields with collision-checked steering around corners. Bosses use their own collision radius without sharing mutable waypoints. Spitters continue moving when walls block the player. Sprite crops follow the actual atlas rows, fixing clipped tank heads and neighboring-row pixels. Navigation passed 71 building/car route checks for standard and boss collision sizes. Live browser visual verification remains outstanding.
+
+# Future improvements
+- Improve path finding ai
+- Find better music and audio cues
+- Improve animations (rolling, reloading, etc)
+- more items with varied effects
+- improved pixel art
+  
