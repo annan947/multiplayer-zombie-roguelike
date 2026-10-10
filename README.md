@@ -68,7 +68,6 @@ In a second terminal, start the client:
 pnpm client:dev
 ```
 
-Open **http://localhost:5173**. Solo runs locally; co-op uses the dedicated server on port **2567**. The server health endpoint is `http://localhost:2567/health`.
 
 ### Host a co-op game
 
