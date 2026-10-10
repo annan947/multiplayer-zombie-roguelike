@@ -3,6 +3,11 @@
 A top-down zombie survival game for **1–4 players**, built with TypeScript, Phaser 3, and React. Survive 30 escalating waves, earn money, open loot chests, and combine passive items while fighting across a large ruined city district.
 
 **[Play the live game](https://annan947-deadzone.annan-sharif2245.chatgpt.site)**
+<img width="1677" height="923" alt="image" src="https://github.com/user-attachments/assets/cf60fd5f-d109-4083-aea4-d43faeb81de9" />
+
+<img width="1780" height="927" alt="image" src="https://github.com/user-attachments/assets/d7855f4a-0c50-48d5-ac7e-5a8ac25ead40" />
+
+
 
 ## Features
 
